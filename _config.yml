@@ -1,0 +1,28 @@
+name: Parsi Memory Project
+favicon: null
+layout_spectrum: 0.4762077145278454
+typography_spectrum: 0.850905719678849
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6977814955171198
+  lightness: 0.012143355561420321
+  saturation: 0.9091792770195752
+  rhythmicContrast: 0.2379906363785267
+purpose: []
