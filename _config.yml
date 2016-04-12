@@ -2,6 +2,7 @@ name: Parsi Memory Project
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.75579
+title: PMPO
 cta:
   domain: null
   bucket: null
